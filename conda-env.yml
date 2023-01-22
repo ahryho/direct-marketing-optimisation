@@ -1,0 +1,17 @@
+name: scikit-learn-course
+
+channels:
+  - conda-forge
+
+dependencies:
+  - scikit-learn >= 1.1.1
+  - pandas >= 1
+  - matplotlib-base
+  - seaborn
+  - jupyterlab
+  - notebook
+  - jupytext
+  - plotly
+  # temporary work-around for https://github.com/ipython/ipython/issues/12467
+  - IPython<8
+
