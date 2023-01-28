@@ -1,4 +1,4 @@
-name: scikit-learn-course
+name: dmo
 
 channels:
   - conda-forge
@@ -8,6 +8,7 @@ dependencies:
   - pandas >= 1
   - matplotlib-base
   - seaborn
+  - tensorflow>=2.5
   - jupyterlab
   - notebook
   - jupytext
