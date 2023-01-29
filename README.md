@@ -58,8 +58,8 @@ jupyter-notebook
 
 3.  Notebooks:
 
-*01_transform_ds.ipynb*: aggregate all data into one dataset. The result is in the `dmo.csv`.
+- *01_transform_ds.ipynb*: aggregate all data into one dataset. The result is in the `dmo.csv`.
 
-*02_exploratory_data_analysis.ipynb*: EDA of the given dataset. The output is in the `dmo_reduced.csv`.
+- *02_exploratory_data_analysis.ipynb*: EDA of the given dataset. The output is in the `dmo_reduced.csv`.
 
-*03_model.ipynb*: feature selection procedure, model development, revenue prediction, results' explanation.
+- *03_model.ipynb*: feature selection procedure, model development, revenue prediction, results' explanation.
