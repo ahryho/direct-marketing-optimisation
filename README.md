@@ -1,6 +1,8 @@
 # Data science: Direct marketing optimisation
 
-## Task: Use dummy data to maximise revenue from direct marketing campaigns.
+## Task: 
+
+Use dummy data to maximise revenue from direct marketing campaigns.
 
 ## Data:
 
