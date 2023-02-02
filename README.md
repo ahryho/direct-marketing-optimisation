@@ -52,7 +52,7 @@ The executive summary of the analysis should not be larger than two pages. Attac
 
 2.  Create and activate a conda environment, and run jupyter-notebook:
 
-``` sh
+```sh
 conda env create -f conda-env.yml
 conda activate dmo
 jupyter-notebook
@@ -64,4 +64,4 @@ jupyter-notebook
 
 - *02_exploratory_data_analysis.ipynb*: EDA of the given dataset. The output is in the `dmo_reduced.csv`.
 
-- *03_model.ipynb*: feature selection procedure, model development, revenue prediction, results' explanation.
+- *03_model.ipynb*: feature selection procedure, model development, revenue prediction, results' explanation, summary.
